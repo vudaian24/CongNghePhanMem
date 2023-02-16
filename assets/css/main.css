@@ -1,0 +1,120 @@
+.app {
+
+}
+
+.header {
+
+}
+
+.header__head {
+    display: flex;
+    height: 140px;
+    align-items: center;
+}
+
+.header__head-logo {
+    width: 21%;
+}
+
+.header__head-logo-img {
+    width: 100%;
+}
+
+.header__head-search {
+    width: 58.3%;
+    display: flex;
+    justify-content: center;
+}
+
+.header__head-search-input {
+    margin-right: 10px;
+    width: 456px;
+    height: 42px;
+    outline: none;
+    font-size: 1.4rem;
+    padding: 0 10px;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+}
+
+.header__head-saerch-btn {
+    width: 55px;
+    height: 42px;
+}
+
+.header__head-acc {
+    width: 9%;
+}
+
+.header__head-acc-label {
+    display: inline-block;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.header__head-acc:hover .header__head-acc-list {
+    display: block;
+}
+
+.header__head-acc-label h3 {
+    margin-right: 5px;
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+
+.header__head-acc-icon {
+
+}
+
+.header__head-acc-list {
+    display: none;
+}
+
+.header__head-acc-item {
+    list-style: none;
+}
+
+.header__head-card {
+    width: 11.7%;
+}
+
+.header__head-card-link {
+
+}
+
+.header__head-card-list {
+
+}
+
+.header__head-notify-header {
+
+}
+
+.header__head-notify-list {
+
+}
+
+.header__head-notify-item {
+
+}
+
+.header__head-notify-link {
+
+}
+
+.header__head-notify-img {
+
+}
+
+.header__head-notify-info {
+
+}
+
+.header__head-notify-name {
+
+}
+
+.header__head-notify-descriotion {
+
+
+}
